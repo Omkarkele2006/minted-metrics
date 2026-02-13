@@ -20,7 +20,7 @@ const Header = () => (
       </button>
       <div className="flex items-center gap-3">
         <div className="text-right hidden sm:block">
-          <p className="text-sm font-medium text-foreground">Sarah Chen</p>
+          <p className="text-sm font-medium text-foreground">Om Karkele</p>
           <p className="text-xs text-muted-foreground">Chief Sustainability Officer</p>
         </div>
         <div className="h-9 w-9 rounded-full bg-gradient-to-br from-primary to-accent flex items-center justify-center text-sm font-bold text-primary-foreground">
