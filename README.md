@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: (https://vercel.com/om-karkeles-projects/minted-metrics/4j6kZCKBWUdSG2R3GcTPRAYcouEa)
+**URL**: https://minted-metrics.vercel.app/
 
 **Use your preferred IDE**
 
