@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to Metro-mint Project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/f6e3b25c-a671-4d13-a2df-d7cb54066d7e
+**URL**: (https://vercel.com/om-karkeles-projects/minted-metrics/4j6kZCKBWUdSG2R3GcTPRAYcouEa)
 
 **Use your preferred IDE**
 
