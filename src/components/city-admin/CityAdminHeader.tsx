@@ -25,7 +25,7 @@ const CityAdminHeader = () => (
       </button>
       <div className="flex items-center gap-3">
         <div className="text-right hidden sm:block">
-          <p className="text-sm font-medium text-foreground">Priya Sharma</p>
+          <p className="text-sm font-medium text-foreground">Kaustubh Mukdam</p>
           <p className="text-xs text-muted-foreground">City Official · Pune</p>
         </div>
         <div className="h-9 w-9 rounded-full bg-gradient-to-br from-secondary to-accent flex items-center justify-center text-sm font-bold text-secondary-foreground">
