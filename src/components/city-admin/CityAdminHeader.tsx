@@ -1,4 +1,5 @@
-import { Landmark, Bell } from "lucide-react";
+import { Landmark, Bell, Leaf } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const CityAdminHeader = () => (
   <header className="glass flex items-center justify-between px-6 py-4">
@@ -14,6 +15,10 @@ const CityAdminHeader = () => (
       </div>
     </div>
     <div className="flex items-center gap-4">
+      <Link to="/" className="flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-xs font-medium text-muted-foreground transition-colors hover:text-foreground bg-[hsl(var(--glass-bg))] border border-[hsl(var(--glass-border))] hover:border-[hsl(0_0%_100%/0.15)]">
+        <Leaf className="h-3.5 w-3.5" />
+        Corporate Hub
+      </Link>
       <button className="relative rounded-lg p-2 text-muted-foreground transition-colors hover:text-foreground">
         <Bell className="h-5 w-5" />
         <span className="absolute right-1.5 top-1.5 h-2 w-2 rounded-full bg-secondary" />
